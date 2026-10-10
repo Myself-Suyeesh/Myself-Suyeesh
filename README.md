@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Suyeesh 👋</h1>
-<h3 align="center">Full-Stack Developer · React · Next.js · Node.js · TypeScript</h3>
+<h3 align="center">Software Engineer | Full-Stack - React · Next.js · Node.js · TypeScript</h3>
 
 <p align="center">
-  I build production web apps, from data-heavy dashboards for government platforms to full-stack products I design, ship and debug myself.
+  I build production web apps, from data-heavy dashboards for government platforms to full-stack products I design, ship, and debug myself.
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 📊 Turn complex datasets into usable dashboards (Recharts, reusable filter systems)
 - 🔐 Build full-stack features with **Node.js, Express, MongoDB**: auth, validation, pagination
 - 🧩 Design reusable component architecture, with legacy files of 1,000+ lines refactored into modular code
-- 🔗 Integrate REST and GraphQL APIs
+- 🔗 Integrated REST and GraphQL APIs
 
 ### 🏢 Where I've worked
 
@@ -24,7 +24,7 @@
 
 **[JobPholio](https://jobpholio.vercel.app)**: a job-application tracker for Indian job seekers
 Next.js 16 · Express · MongoDB · JWT in httpOnly cookies with refresh-token rotation
-→ [Repo](https://github.com/YOUR-USERNAME/jobpholio) · [Live](https://jobpholio.vercel.app)
+→ [Repo](https://github.com/myself-suyeesh/jobpholio-client) · [Live](https://jobpholio.vercel.app)
 
 ### 🧰 Tech stack
 
