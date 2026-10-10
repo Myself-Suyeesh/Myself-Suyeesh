@@ -39,4 +39,4 @@ I started in Civil Engineering and moved into software because I enjoy building 
 
 ### 🤝 Let's connect
 
-📧 suyeesh7577@gmail.com · 🔗 [LinkedIn](YOUR-LINKEDIN-URL) · 🌐 [Portfolio](ADD-WHEN-LIVE)
+📧 suyeesh7577@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/suyeeshreddy/)
